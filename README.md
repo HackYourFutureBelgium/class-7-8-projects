@@ -99,3 +99,7 @@ Feature Freeze!  Put the finishing touches on whatever you have working and get 
 ## Checking In
 
 Because your teams are mixed with class 7 & class 8 students, we will use this repo as your home base for the final project.  Wednesday check-ins will be here as well as the teams project board.
+
+Each team will host their code and main project board in a team repo.  You'll use that project board to organize your development.
+
+The project board in this repository will be used to track the overall progress of all the teams. Coaches and HYF core team will come here first to see how each team is doing and how we can support you.  Each final project group will create 1 issue for their entire team and place it on the board in this repository. Your issue should include (at least) an introduction to your team, an overview of your project, and a link to your team repo.
