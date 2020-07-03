@@ -70,7 +70,6 @@ In the first week you will become familiar with the starter repository and plan 
 - Setting up the starter project
   - Add each other as collaborators
   - Set up the project board
-  - Deploy the starter code (maybe even with github actions?)
 
 ### Week 2
 
@@ -80,6 +79,7 @@ In this second week your team will work on coordinating your development for the
 - Defining milestones for the coming weeks
 - Defining a communication plan
 - Setting up the Database
+- Deploy the starter code
 
 ### Weeks 3, 4, 5
 
