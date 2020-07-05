@@ -1,6 +1,6 @@
 # Final Project
 
-> [Teams Project Board](https://github.com/HackYourFutureBelgium/class-7-8-projects/projects/1)
+> [Teams Project Board](https://github.com/HackYourFutureBelgium/class-7-8-projects/projects/1)  
 > [Starter Code](https://github.com/HackYourFutureBelgium/organized-for-deployment)
 
 In the upcoming 6 weeks you'll be immersed into the web developer life. By the end of it you will have created and deployed a full-stack web application. Everything you have learned so far will be combined and put into practice.
