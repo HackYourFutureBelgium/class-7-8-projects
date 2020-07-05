@@ -64,6 +64,7 @@ The project module will take 6 weeks.  There are 3 different phases to the proje
 
 In the first week you will become familiar with the starter repository and plan the overview of your project.  This weeks objectives include:
 
+- Filled-out planning document
 - Define your user stories
 - Write a first-draft development strategy
 - Begin planning the data tables for you application
