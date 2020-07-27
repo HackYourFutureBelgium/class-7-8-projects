@@ -12,6 +12,10 @@ Along with practicing your programming skills you will also be working on your c
 - [What we expect from you](#what-we-expect-from-you)
 - [What you can expect from the module](#what-you-can-expect-from-the-module)
 - [The schedule](#the-schedule)
+  - [Initial Planning](#initial-planning)
+  - [Development Prep](#development-prep)
+  - [Sprinting](#sprinting)
+  - [Feature Freeze](#feature-freeze)
 - [Deliverables](#deliverables)
   - [Deployed Demo](#deployed-demo)
   - [Landing Page](#landing-page)
@@ -65,7 +69,9 @@ Communication skills:
 
 The project module will take 6 weeks.  There are 3 different phases to the project:
 
-### Week 1
+### Initial Planning
+
+> week 1
 
 In the first week you will become familiar with the starter repository and plan the overview of your project.  This weeks objectives include:
 
@@ -78,7 +84,9 @@ In the first week you will become familiar with the starter repository and plan 
   - Add each other as collaborators
   - Set up the project board
 
-### Week 2
+### Development Prep
+
+> week 2
 
 In this second week your team will work on coordinating your development for the remaining 5 weeks.  This includes:
 
@@ -88,9 +96,11 @@ In this second week your team will work on coordinating your development for the
 - Setting up the Database
 - Deploy the starter code
 
-### Weeks 3, 4, 5
+### Sprinting
 
-Sprinting!  Each Sunday you should do a retrospective and plan the next week's sprint.  Sprint planning should include (but not be limited to):
+> weeks 3, 4, 5
+
+Each Sunday you should do a retrospective and plan the next week's sprint.  Sprint planning should include (but not be limited to):
 
 - a communications strategy (when/how to host Scrum meetings)
 - a backlog (consider creating a milestone for each sprint's issues)
@@ -101,14 +111,11 @@ To learn more about managing your team's sprint weeks, check out these resources
 - [Agile Cartoons](https://www.youtube.com/watch?v=Z9QbYZh1YXY&list=PLBUu5aGDLKnbeEx8U-5r436bw6p9wv1rS)
 - [Agile Alliance](https://www.agilealliance.org/glossary/sprint-planning/#q=~(infinite~false~filters~(postType~(~'page~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'sprint*20planning))~searchTerm~'~sort~false~sortDirection~'asc~page~1))
 
-### Week 6
+### Feature Freeze
 
-Feature Freeze!  Put the finishing touches on whatever you have working and get ready to present your project at graduation. This includes:
+> week 6
 
-- Making sure your deployed app works for the live demo
-- Preparing a presentation where everyone in your team will speak
-- Building a static landing page for your project
-- A short video add for your project, something you might see before a youtube tutorial
+Put the finishing touches on whatever you have working and prepare your team's final deliverables ...
 
 ---
 
