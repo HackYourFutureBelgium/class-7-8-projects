@@ -13,6 +13,11 @@ Along with practicing your programming skills you will also be working on your c
 - [What you can expect from the module](#what-you-can-expect-from-the-module)
 - [The schedule](#the-schedule)
 - [Deliverables](#deliverables)
+  - [Deployed Demo](#deployed-demo)
+  - [Landing Page](#landing-page)
+  - [Video Spot](#video-spot)
+  - [Slide Deck](#slide-deck)
+  - [Presentation](#presentation)
 
 ---
 
