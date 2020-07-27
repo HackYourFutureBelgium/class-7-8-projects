@@ -20,6 +20,7 @@ assignees: ''
 
 Include links to each of these items, they can be stored as documents in your team repo or somewhere else.  This depends on how your team chooses to coordinate
 
+- [ ] Planning document
 - [ ] User Stories
 - [ ] First draft development strategy
 - [ ] Data tables schema (first draft, can be in any format)
