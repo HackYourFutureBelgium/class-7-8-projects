@@ -90,7 +90,16 @@ In this second week your team will work on coordinating your development for the
 
 ### Weeks 3, 4, 5
 
-Sprinting.  Standups, backlogs, tickets, code reviews ... all the fun stuff.
+Sprinting!  Each Sunday you should do a retrospective and plan the next week's sprint.  Sprint planning should include (but not be limited to):
+
+- a communications strategy (when/how to host Scrum meetings)
+- a backlog (consider creating a milestone for each sprint's issues)
+
+To learn more about managing your team's sprint weeks, check out these resources on Agile Development
+
+- [Sprint Planning](https://www.youtube.com/watch?v=2A9rkiIcnVI)
+- [Agile Cartoons](https://www.youtube.com/watch?v=Z9QbYZh1YXY&list=PLBUu5aGDLKnbeEx8U-5r436bw6p9wv1rS)
+- [Agile Alliance](https://www.agilealliance.org/glossary/sprint-planning/#q=~(infinite~false~filters~(postType~(~'page~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'sprint*20planning))~searchTerm~'~sort~false~sortDirection~'asc~page~1))
 
 ### Week 6
 
