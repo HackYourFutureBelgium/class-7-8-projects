@@ -11,7 +11,7 @@ Along with practicing your programming skills you will also be working on your c
 - [What we expect from you](#what-we-expect-from-you)
 - [What you can expect from the module](#what-you-can-expect-from-the-module)
 - [The schedule](#the-schedule)
-- [Checking In](#checking-in)
+- [Deliverables](#deliverables)
 
 ---
 
@@ -96,10 +96,47 @@ Feature Freeze!  Put the finishing touches on whatever you have working and get 
 
 ---
 
-## Checking In
+## Deliverables
 
-Because your teams are mixed with class 7 & class 8 students, we will use this repo as your home base for the final project.  Wednesday check-ins will be here as well as the teams project board.
+After the 6th week of the final project your team will be expected deliver these five items:
 
-Each team will host their code and main project board in a team repo.  You'll use that project board to organize your development.
+### Deployed Demo
 
-The project board in this repository will be used to track the overall progress of all the teams. Coaches and HYF core team will come here first to see how each team is doing and how we can support you.  Each final project group will create 1 issue for their entire team and place it on the board in this repository. Your issue should include (at least) an introduction to your team, an overview of your project, and a link to your team repo.
+A live URL with a live demo of your project: no bugs!  no broken features!
+
+This demo can be very simple and limited, you won't be evaluated on how complex it is.  Instead you will be evaluated on whether or not _each and every_ feature on the demo works. In the final week of the project your team will need to assess which features can be finished on time and which cannot.  Features that cannot be finished on time should be removed from the deployment branch and kept in the backlog.
+
+If your team has been disciplined about branching and deployment throughout the whole 6 weeks, the deployed demo should be ready without any extra work.
+
+### Landing Page
+
+Create a [landing page](https://unbounce.com/landing-page-articles/what-is-a-landing-page/) for your app.  This should be a beautiful and simple single-page site that explains why a user would want to use your app and how to get started.  It should include a link to your live demo.
+
+You are encouraged to write this using HTML/CSS/JS(/bootstrap/material/...) for simplicity, no need for a full frontend framework.  Your landing page can be hosted from your group repository's `index.html` using GitHub Pages.
+
+### Video Spot
+
+Produce a short (< 2min) video spot explaining your project.  The goal of this spot is to sell your app to new users.  You should not mention the technologies you used, show the code, or talk about how it was built.  You might not even include a screen shot of the app!
+
+Think of the adds you'd see on Youtube, this is what you're aiming for. Be creative, be engagin, be convincing.
+
+### Slide Deck
+
+Write a slide-show to present at the graduation day. This will include (in any order):
+
+- who is on your team
+- what you built and why
+  - screen shots of the landing page
+  - embed the video spot
+- screen shots/gifs of the live demo
+- about your journey
+  - development process
+  - what you learned
+  - what was challenging
+  - what was fun
+  - ...
+- ... this is your project, impress yourselves :)
+
+### Presentation
+
+Finally your team will need to present all of this on graduation day.  Divide the presentation among yourselves, each team member should speak at least once.
